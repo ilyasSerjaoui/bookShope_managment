@@ -1,0 +1,3 @@
+secret 15
+mindset 13
+prince 15.33
